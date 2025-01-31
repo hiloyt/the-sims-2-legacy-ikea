@@ -1,0 +1,391 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP9.exe"
+		{
+			"string"
+			{
+				"Game Registry"		"Electronic Arts\\The Sims 2 Ultimate Collection 25"
+				"path"		"%INSTALLDIR%\\Base"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP1.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP1"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP2.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP2"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP3.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP3"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP4.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP4"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP5.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP5"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP6.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP6"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP7.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP7"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP8.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\EP8"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2EP9.exe"
+		{
+			"string"
+			{
+				"Game Registry"		"Electronic Arts\\The Sims 2 Ultimate Collection 25"
+				"path"		"%INSTALLDIR%\\EP9"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP1.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP1"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP2.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP2"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP4.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP4"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP5.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP5"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP6.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP6"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP7.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP7"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\Sims2SP8.exe"
+		{
+			"string"
+			{
+				"path"		"%INSTALLDIR%\\SP8"
+			}
+			"dword"
+			{
+				"Installed"		"1"
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25"
+		{
+			"string"
+			{
+				"EPsInstalled"		"Sims2EP1.exe,Sims2EP2.exe,Sims2EP3.exe,Sims2SP1.exe,Sims2SP2.exe,Sims2EP4.exe,Sims2EP5.exe,Sims2SP4.exe,Sims2SP5.exe,Sims2EP6.exe,Sims2SP6.exe,,Sims2EP7.exe,Sims2SP7.exe,Sims2SP8.exe,Sims2EP8.exe,Sims2EP9.exe"
+			}
+			"string"
+			{
+				"english"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"brazilian"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"czech"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"danish"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"dutch"
+				{
+					"DisplayName"		"De Sims 2 Erfenis"
+				}
+				"finnish"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"french"
+				{
+					"DisplayName"		"Les Sims 2 Héritage"
+				}
+				"german"
+				{
+					"DisplayName"		"Die Sims 2 Vermächtnis"
+				}
+				"hungarian"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"italian"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"japanese"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"koreana"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"norwegian"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"polish"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"portuguese"
+				{
+					"DisplayName"		"Os Sims 2 Legado"
+				}
+				"russian"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"spanish"
+				{
+					"DisplayName"		"Los Sims 2 Legado"
+				}
+				"swedish"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"schinese"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"tchinese"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+				"thai"
+				{
+					"DisplayName"		"The Sims 2 Legacy"
+				}
+			}
+		}
+		"HKEY_CURRENT_USER\\Software\\Electronic Arts\\The Sims 2 Ultimate Collection 25\\1.0"
+		{
+			"dword"
+			{
+				"english"
+				{
+					"language"		"1"
+				}
+				"brazilian"
+				{
+					"language"		"10"
+				}
+				"czech"
+				{
+					"language"		"11"
+				}
+				"danish"
+				{
+					"language"		"9"
+				}
+				"dutch"
+				{
+					"language"		"8"
+				}
+				"finnish"
+				{
+					"language"		"7"
+				}
+				"french"
+				{
+					"language"		"2"
+				}
+				"german"
+				{
+					"language"		"3"
+				}
+				"hungarian"
+				{
+					"language"		"25"
+				}
+				"italian"
+				{
+					"language"		"4"
+				}
+				"japanese"
+				{
+					"language"		"14"
+				}
+				"koreana"
+				{
+					"language"		"15"
+				}
+				"norwegian"
+				{
+					"language"		"22"
+				}
+				"polish"
+				{
+					"language"		"20"
+				}
+				"portuguese"
+				{
+					"language"		"23"
+				}
+				"russian"
+				{
+					"language"		"16"
+				}
+				"spanish"
+				{
+					"language"		"5"
+				}
+				"swedish"
+				{
+					"language"		"6"
+				}
+				"schinese"
+				{
+					"language"		"17"
+				}
+				"tchinese"
+				{
+					"language"		"18"
+				}
+				"thai"
+				{
+					"language"		"21"
+				}
+			}
+		}
+	}
+	"Run Process"
+	{
+		"VP6"
+		{
+			"Process 1"		"%INSTALLDIR%\\install\\VP6\\vp6install.exe"
+			"NoCleanUp"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"3bf8676be75ff0c222d06b1354c734c80a45ab9cb0db27752b0379c44924df0ea473eb6087f9c67023060cfba185042d0fd27159c2c9d7e7379e2d060eb223f144a6dd896cf2c22492c3acb004e5301e3be6f133ad12d8e92b3ced5b7663fe783d8efd7788433dac14bdb64218d3b37293fd4c75388d2d4ca994896f48fb3035"
+}

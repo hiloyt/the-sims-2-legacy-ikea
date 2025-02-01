@@ -1,6 +1,9 @@
 # The Sims 2 Legacy Collection - Ikea SP
 An easy way to restore The Sims 2: IKEA Home Stuff to The Sims 2 Legacy Collection.
 
+> [!IMPORTANT]
+> Now, you can also restore missing songs! 🎉 Just read [this](https://github.com/hiloyt/the-sims-2-legacy-missing-content-and-fixes/?tab=readme-ov-file#missing-songs) *tutorial*.
+
 ## How to restore
 
 1. You need SP files from `The Sims 2 Ultimate Collection` ([a screenshot](#uc-sp8-location) where you can find `SP8` after UC installation) or, for example, from a CD/DVD (in this case, follow the [The Sims 2: IKEA Home Stuff disc edition steps below](#the-sims-2-ikea-home-stuff-disc-edition)).

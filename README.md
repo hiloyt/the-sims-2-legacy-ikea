@@ -3,7 +3,7 @@ An easy way to restore The Sims 2: IKEA Home Stuff to The Sims 2 Legacy Collecti
 
 ## How to restore
 
-1. You need SP files from `The Sims 2 Ultimate Collection` or, for example, from a CD/DVD (in this case, follow the [The Sims 2: IKEA Home Stuff disc edition steps below](https://github.com/hiloyt/the-sims-2-legacy-ikea/main/README.md#the-sims-2-ikea-home-stuff-disc-edition)).
+1. You need SP files from `The Sims 2 Ultimate Collection` or, for example, from a CD/DVD (in this case, follow the [The Sims 2: IKEA Home Stuff disc edition steps below](#the-sims-2-ikea-home-stuff-disc-edition)).
 2. Make a copy and rename the directory with SP files from `The Sims 2 IKEA® Home Stuff` to `SP8`. In your case, it can have a slightly different name, but it should contain the `TSData` folder.
 
 ### Steam

@@ -3,8 +3,8 @@ An easy way to restore The Sims 2: IKEA Home Stuff to The Sims 2 Legacy Collecti
 
 ## How to restore
 
-1. You need SP files from `The Sims 2 Ultimate Collection` or, for example, from a CD/DVD (in this case, follow the [The Sims 2: IKEA Home Stuff disc edition steps below](#the-sims-2-ikea-home-stuff-disc-edition)).
-2. Make a copy and rename the directory with SP files from `The Sims 2 IKEA® Home Stuff` to `SP8`. In your case, it can have a slightly different name, but it should contain the `TSData` folder.
+1. You need SP files from `The Sims 2 Ultimate Collection` ([a screenshot](#uc-sp8-location) where you can find `SP8` after UC installation) or, for example, from a CD/DVD (in this case, follow the [The Sims 2: IKEA Home Stuff disc edition steps below](#the-sims-2-ikea-home-stuff-disc-edition)).
+2. Make a copy and rename the directory with SP files from `The Sims 2 IKEA® Home Stuff` to `SP8` (in UC, you already have this SP under this name). In your case, it can have a slightly different name, but it should contain the `TSData` folder.
 
 ### Steam
 
@@ -43,6 +43,10 @@ You must make small file changes if you have a disk version of this SP.
 ![image](https://github.com/user-attachments/assets/7b31a32c-bd5a-4894-adbf-c4d0b626d88f)
 2. The structure of the SP folder should look like this:
 ![image](https://github.com/user-attachments/assets/f9e36119-a08f-40c4-817d-3ad85bc4f9c0)
+
+### UC SP8 location
+
+![image](https://github.com/user-attachments/assets/665d0b5e-b97a-4bdf-ac79-bef84046544d)
 
 Big thanks to [@AltEvolutions](https://github.com/hiloyt/the-sims-2-legacy-ikea/issues/1) for spotting missing collections in some cases and @thurask for the registry file :).
 

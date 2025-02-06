@@ -380,7 +380,7 @@
 	{
 		"VP6"
 		{
-			"Process 1"		"%INSTALLDIR%\\install\\VP6\\vp6install.exe"
+			"process 1"		"%INSTALLDIR%\\install\\VP6\\vp6install.exe"
 			"NoCleanUp"		"1"
 		}
 	}
